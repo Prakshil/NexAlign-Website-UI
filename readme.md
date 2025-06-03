@@ -20,7 +20,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/Prakshil/Website.git
 ```
 
 2. Navigate to the project directory:
@@ -35,7 +35,7 @@ npm install
 
 4. Start the development server:
 ```bash
-npm run dev
+npm run start
 ```
 
 ## 🎨 Project Structure
@@ -107,5 +107,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 
 For any queries or support, please reach out to:
-- Email: [your-email]
-- GitHub: [your-github-profile]
+- Email: [prakshilmpatel@gmail.com]
+
