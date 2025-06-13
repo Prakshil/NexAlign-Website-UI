@@ -1,4 +1,4 @@
-# Tailwind CSS Project
+# A Simple Tailwind CSS Project
 
 A modern web application built with Tailwind CSS, featuring responsive design and beautiful UI components.
 
